@@ -18,10 +18,6 @@ app.get("api/v1/products",(req,res)=>{
       products,
     },
  });
-
 });
-
-
-
 
 module.exports = app;
